@@ -1,0 +1,4 @@
+# Project exclude paths
+/model-one/target/
+/model-three/target/
+/model-two/target/
